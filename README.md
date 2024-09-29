@@ -1,5 +1,5 @@
 # 😍 Hi, Thank you for visiting my GitHub!
-👋 I'm Thanh and I'm studying Information Technology at Danang University of Science and Technology. I'm hoping to pursue a career working as Backend Developer.
+👋 Hi, I'm Thanh, an Information Technology student at Danang University of Science and Technology. I'm hoping to pursue a career as a Backend Developer.
 
 ## 👀Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C4%83n-c%C3%B4ng-ch%C3%AD-thanh-03b394310/) 
