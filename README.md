@@ -6,6 +6,6 @@
 
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=VanCongChiThanh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanCongChiThanh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 50%;">
+  <img src="[Show Your Leetcode Stats on GitHub Readme](https://leetcode.card.workers.dev/vancongchithanh?theme=default&font=baloo&extension=null)" style="width: 50%;">
 </div>
 
