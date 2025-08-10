@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Thanh!
-
-🎓 I'm an Information Technology student at **Danang University of Science and Technology**.  
-
----
 
 ## 🌐 Connect with me
 
